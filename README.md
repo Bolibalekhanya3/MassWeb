@@ -1,2 +1,2 @@
 # MassWeb
-My very first wed development project
+My very first web development project
